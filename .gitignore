@@ -1,0 +1,10 @@
+
+data/
+*.csv
+*.parquet
+
+__pycache__/
+*.ipynb_checkpoints
+*.log
+*.zip
+config/*.yaml
